@@ -1,2 +1,6 @@
 # lifeline-connect
-my first repo
+my first project
+<br>
+Author. jeel khichda
+
+
